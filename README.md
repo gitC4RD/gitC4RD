@@ -6,6 +6,10 @@
 ### Languages
 ![Flutter](https://img.shields.io/badge/Lua-4682B4?style=flat&logo=lua)
 ![Flutter](https://img.shields.io/badge/JS-000000?style=flat&logo=javascript)
+![Flutter](https://img.shields.io/badge/php-000000?style=flat&logo=php)
+
+### My Public Projects
+It's still empty.
 <!--
 **Purple-CARD/Purple-CARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
