@@ -1,5 +1,5 @@
 ### Me
-![Flutter](https://img.shields.io/badge<Telegram-@tgc4rdE-1E90FF?style=flat&logo=telegram)
+![Flutter](https://img.shields.io/badge/Telegram-@tgc4rdE-1E90FF?style=flat&logo=telegram)
 <!--
 **Purple-CARD/Purple-CARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
