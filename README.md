@@ -1,6 +1,6 @@
 ### Me
 ![Flutter](https://img.shields.io/badge/Telegram-@tgc4rd-1E90FF?style=flat&logo=telegram)
-![Flutter](https://img.shields.io/badge/VK-@vkc4rd-4169E1?style=flat&logo=vk)
+![Flutter](https://img.shields.io/badge/VK-@vkc4rd-4169E1?style=flat&logo=vk&logoColor=FFFFFF)
 ![Flutter](https://img.shields.io/badge/Discord-@C4RD-7B68EE?style=flat&logo=discord)
 
 ### Languages
