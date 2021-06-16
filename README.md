@@ -6,6 +6,7 @@
 ![Flutter](https://img.shields.io/badge/Steam-stc4rd-4682B4?style=flat&logo=steam&logoColor=FFFFFF)
 
 ### Languages
+![Flutter](https://img.shields.io/badge/С++-4682B4?style=flat&logo=cpp)
 ![Flutter](https://img.shields.io/badge/Lua-4682B4?style=flat&logo=lua)
 ![Flutter](https://img.shields.io/badge/JS-000000?style=flat&logo=javascript)
 ![Flutter](https://img.shields.io/badge/php-000000?style=flat&logo=php)
