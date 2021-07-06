@@ -9,7 +9,7 @@
 ![Flutter](https://img.shields.io/badge/Lua-4682B4?style=flat&logo=lua)
 ![Flutter](https://img.shields.io/badge/JS-000000?style=flat&logo=javascript)
 ![Flutter](https://img.shields.io/badge/php-000000?style=flat&logo=php)
-![Flutter](https://img.shields.io/badge/C++-000000?style=flat&logo=C++)
+![Flutter](https://img.shields.io/badge/C++-000000?style=flat&logo=-C++)
 
 ### My Public Projects
 I don't think it can be considered a project, but I'm glad I did something public: https://vk.com/c4rd.party
