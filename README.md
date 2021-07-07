@@ -16,4 +16,4 @@
 I don't think it can be considered a project, but I'm glad I did something public: https://vk.com/c4rd.party
 
 ### Stats
-![Purple-CARD github stats](https://github-readme-stats.vercel.app/api?username=Purple-CARD&show_icons=true&theme=dark)
+![gitC4RD github stats](https://github-readme-stats.vercel.app/api?username=gitC4RD&show_icons=true&theme=dark)
