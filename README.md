@@ -13,7 +13,7 @@
 ![Flutter](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 
 ### My Public Projects
-I don't think it can be considered a project, but I'm glad I did something public: https://vk.com/c4rd.party
+https://github.com/gitC4RD/status-bot
 
 ### Stats
 ![gitC4RD github stats](https://github-readme-stats.vercel.app/api?username=gitC4RD&show_icons=true&theme=dark)
