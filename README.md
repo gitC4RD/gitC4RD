@@ -8,9 +8,6 @@
 ### Languages
 ![Flutter](https://img.shields.io/badge/Lua-4682B4?style=flat&logo=lua)
 ![Flutter](https://img.shields.io/badge/JS-000000?style=flat&logo=javascript)
-![Flutter](https://img.shields.io/badge/php-000000?style=flat&logo=php)
-![Flutter](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2b%2b)
-![Flutter](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 
 ### My Public Projects
 
