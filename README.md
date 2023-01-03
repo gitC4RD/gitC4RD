@@ -13,7 +13,6 @@
 ![Flutter](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 
 ### My Public Projects
-https://github.com/gitC4RD/status-bot / https://github.com/gitC4RD/anti-freenitro-bot
 
 ### Stats
 ![gitC4RD github stats](https://github-readme-stats.vercel.app/api?username=gitC4RD&show_icons=true&theme=dark)
